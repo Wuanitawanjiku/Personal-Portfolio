@@ -127,6 +127,7 @@ input{
     font-size: 30px;
     color: #00e9a5;
     transition: 4s; 
+    margin-left: 1px;
 }
 .home-page-btn{
     width: 120px;
